@@ -1,0 +1,24 @@
+
+.products{
+    
+    background: url("../../src/1.jpg") 0.50%;
+    background-attachment: fixed;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+aside{
+    background-color: white;
+    opacity: 1;
+}
+.filtros{
+    margin-bottom: 10px;
+}
+.cardStyle{
+    margin-bottom: 10px;
+}
+.information{
+    margin: 10px;
+}
+
