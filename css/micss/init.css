@@ -13,12 +13,12 @@ body, html{
 .parallax1{
     background-image: url("../../src/1.jpg");
     min-height: 80%;
-    height: 700px;
+    height: 600px;
 }
 .parallax2{
     background-image: url("../../src/2.jpg");
     min-width: 80%;
-    height: 700px;
+    height: 600px;
 }
 .parallax3{
     background-image: url("../../src/3.jpg");
@@ -39,29 +39,29 @@ body, html{
 
 .eventosP{
     background: white;
-    height: 700px;
-    opacity: 0.8;
+    height: 600px;
+    opacity: 0.95;
 }
 .musicaP{
     background: white;
-    height: 700px;
-    opacity: 0.8;
+    height: 600px;
+    opacity: 0.95;
 }
 
 .eventTitle{
     width: 100%;
-    height: 100px;
+    height: 80px;
     background: linear-gradient(grey , black);
 }
 .musicTitle{
     width: 100%;
-    height: 100px;
+    height: 80px;
     background: linear-gradient(grey , black);
 }
 .eventTitle .title{
     text-align: center;
 }
-.eventTitle .title h1{
+.eventTitle .title h2{
     padding-top: 20px;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -69,8 +69,41 @@ body, html{
 .musicTitle .title{
     text-align: center;
 }
-.musicTitle .title h1{
+.musicTitle .title h2{
     padding-top: 20px;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.calendario{
+    align-items: center;
+    text-align: center;
+    
+}
+.calendario h3 {
+    margin-top: 30px;
+    color: red;
+}
+.calendario img{
+    margin-top: 40px;
+    width: 100%;
+}
+.eventoPull{
+    align-items: center;
+    text-align: center;
+}
+.eventoPull h3{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: red;
+}
+.eventoPull img{
+    width: 100%;
+}
+.listadoMusica {
+    align-items: center;
+}
+.listadoMusica img{
+    margin-top: 10px;
+    margin-left: 3%;
+}
+

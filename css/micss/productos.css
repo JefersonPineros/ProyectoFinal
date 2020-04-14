@@ -21,4 +21,11 @@ aside{
 .information{
     margin: 10px;
 }
+.imgcard img{
+    margin-top: 10px;
+    width: 70%;
+}
+.imgcard .card{
+    align-items: center;
+}
 

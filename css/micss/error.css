@@ -1,0 +1,27 @@
+.content{
+    align-items: center;
+}
+.top1 .typeError{
+    text-align: center;
+    margin-top: 30px;
+}
+.top1 .typeError p{
+    font-size: 100px;
+    color: red;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.center1 .descriptionError{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: fantasy;
+}
+.botton1 .image1{
+    align-items: center;
+}
+.botton1 .image1 img{
+    margin-left: 38%;
+    width: 30%;
+    align-items: center;
+}
